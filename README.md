@@ -5,6 +5,8 @@ AC Electric Drives, commonly referred to as Variable Speed Drives (VSDs), are ex
 ### Project Overview
 
 This project aims to perform time-series analysis on critical and non-critical faults, encompassing both electrical and mechanical issues. Using statistical feature extraction techniques, the project identifies information-rich regions from motor output data. This is followed by Machine Learning-based multi-class classification to accurately identify various faults, ensuring high accuracy and quick diagnosis for timely corrective measures.
+![Uploading image.png…]()
+
 
 #### Key Objectives:
 1. **Data Generation**: A Variable Frequency Drive model was simulated using Simulink in MATLAB.
